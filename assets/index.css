@@ -1,0 +1,14 @@
+span{
+    color: red;
+}
+
+ul li .link{
+    text-decoration: none;
+    color: black;
+}
+
+ul li button{
+    background-color: black;
+    border: none;
+    color: white;
+}
